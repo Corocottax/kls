@@ -29,6 +29,5 @@ export const Email = () => {
 
   const app = document.querySelector("#app");
 
-  app.innerHTML = "";
   app.append(emailForm);
 };
