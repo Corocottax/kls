@@ -1,0 +1,15 @@
+{
+  "header_link_inicio": "Startseite",
+  "header_link_about": "Über uns",
+  "header_link_contact": "Kontakt",
+  "h1": "KLS - SPRACHAKADEMIE",
+  "hero_p": "Wir sind eine Sprachschule, die sich auf den Unterricht von Englisch, Spanisch, Katalanisch und Deutsch für alle spezialisiert hat, die es brauchen oder lernen möchten.",
+  "contact_h3": "Zögern Sie nicht, uns eine E-Mail mit Ihren Fragen zu senden!",
+  "email_form_label_email": "E_Mail",
+  "email_form_label_asunto": "Betreff",
+  "email_form_label_contenido": "Inhalt",
+  "email_form_placeholder_email": "example@gmail.com",
+  "email_form_placeholder_asunto": "Ich möchte mehr wissen",
+  "email_form_placeholder_contenido": "Ich möchte mich über die Gebühren informieren",
+  "email_form_button": "Senden"
+}

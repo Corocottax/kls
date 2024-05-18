@@ -1,0 +1,108 @@
+.languages {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: var(--kls-gap-m);
+    z-index: 99999;
+    align-items: center;
+}
+
+.languages button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.5s;
+    padding: 0px var(--kls-padding-s);
+}
+
+.languages button img {
+    transition: all 0.5s;
+}
+
+.languages button:hover img {
+    filter: drop-shadow(0px 0px 5px var(--kls-color-500));
+}
+
+.languages>ul {
+    height: 0px;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+
+.languages>input:checked~ul {
+    height: 220px;
+}
+
+.languages>input {
+    display: none;
+}
+
+label[for="desplegable"] {
+    width: 60px;
+    height: 60px;
+    background-color: var(--kls-color-200);
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.languages>input:checked+label:hover {
+    animation: none;
+}
+
+label[for="desplegable"]:hover {
+    animation: move-arrow 0.5s linear;
+}
+
+label[for="desplegable"]>img {
+    width: 50%;
+}
+
+.languages>input:checked+label {
+    transform: rotate(-180deg);
+}
+
+@keyframes move-arrow {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    25% {
+        transform: rotate(20deg);
+    }
+
+    50% {
+        transform: rotate(0deg);
+    }
+
+    75% {
+        transform: rotate(-20deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+@media (max-width: 1000px) {
+    .languages {
+        bottom: 5px;
+        right: 0px;
+    }
+
+    label[for="desplegable"] {
+        width: 35px;
+        height: 35px;
+    }
+
+    .languages button img {
+        width: 40px;
+    }
+    .languages>input:checked~ul {
+        height: 150px;
+    }
+}

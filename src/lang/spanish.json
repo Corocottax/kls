@@ -1,0 +1,15 @@
+{
+  "header_link_inicio": "Inicio",
+  "header_link_about": "Sobre nosotros",
+  "header_link_contact": "Contacto",
+  "h1": "KLS - ACADEMIA DE IDIOMAS",
+  "hero_p": "Somos una academia de idiomas especializada en la enseñanza del idioma inglés, español, catalán y alemán para toda aquella persona que necesite o le gustaría aprender.",
+  "contact_h3": "¡No dudes en enviarnos un correo con tus dudas!",
+  "email_form_label_email": "Email",
+  "email_form_label_asunto": "Asunto",
+  "email_form_label_contenido": "Contenido",
+  "email_form_placeholder_email": "example@gmail.com",
+  "email_form_placeholder_asunto": "Quiero saber más",
+  "email_form_placeholder_contenido": "Me gustaría informarme sobre las cuotas",
+  "email_form_button": "Enviar"
+}

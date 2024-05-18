@@ -1,0 +1,16 @@
+{
+    "header_link_inicio": "Home",
+    "header_link_about": "About Us",
+    "header_link_contact": "Contact",
+    "h1": "KLS - LANGUAGE ACADEMY",
+    "hero_p": "We are a language academy specialized in teaching English, Spanish, Catalan, and German to anyone who needs or would like to learn.",
+    "contact_h3": "Don't hesitate to send us an email with your questions!",
+    "email_form_label_email": "Email",
+    "email_form_label_asunto": "Subject",
+    "email_form_label_contenido": "Content",
+    "email_form_placeholder_email": "example@gmail.com",
+    "email_form_placeholder_asunto": "I want to know more",
+    "email_form_placeholder_contenido": "I would like to inquire about the fees",
+    "email_form_button": "Send"
+  }
+  

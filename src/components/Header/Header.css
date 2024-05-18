@@ -1,0 +1,25 @@
+.flex-container.header {
+    padding: var(--kls-padding-l);
+    justify-content: space-between;
+    padding-top: 30px;
+    position: relative;
+    z-index: 99999;
+}
+
+.header>img {
+    width: 50px;
+}
+
+.header>nav ul {
+    gap: var(--kls-gap-xl);
+}
+
+.header>nav a {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--kls-color-500);
+}
+
+.header>nav a:hover {
+    border-bottom: var(--kls-color-500) solid 3px;
+}
