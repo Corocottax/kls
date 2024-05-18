@@ -7,7 +7,7 @@ export const Header = () => {
   header.className = "header flex-container";
 
   header.innerHTML = `
-    <img src="/assets/idiomas.png" alt="logo KLS" />
+    <img src="/assets/logo.png" alt="logo KLS" />
         <nav>
           <ul class="flex-container">
             <li>

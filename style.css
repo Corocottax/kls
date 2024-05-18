@@ -60,6 +60,27 @@ body {
   align-items: center;
 }
 
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--kls-color-100);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--kls-color-200);
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: var(--kls-color-400);
+}
+
+
 @media (max-width: 675px) {
   html {
     font-size: 14px;
