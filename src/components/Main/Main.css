@@ -36,7 +36,7 @@
     border-radius: 0px 100% 100% 100%;
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 1115px) {
     #hero > img {
         position: absolute;
         filter: opacity(0.3);

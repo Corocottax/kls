@@ -11,5 +11,19 @@
   "email_form_placeholder_email": "example@gmail.com",
   "email_form_placeholder_asunto": "Quiero saber más",
   "email_form_placeholder_contenido": "Me gustaría informarme sobre las cuotas",
-  "email_form_button": "Enviar"
+  "email_form_button": "Enviar",
+  "about_title": "Sobre nosotros",
+  "about_card_1_title": "Clases de Inglés",
+  "about_card_1_text": "En KLS, ofrecemos clases de inglés diseñadas para todos los niveles, desde principiantes hasta avanzados. Nuestros cursos son impartidos por profesores altamente calificados y con amplia experiencia, que utilizan métodos de enseñanza innovadores y dinámicos para que aprendas de forma rápida y efectiva.",
+  "about_card_2_title": "Clases de Alemán",
+  "about_card_2_text": "También ofrecemos clases de Alemán para todos los niveles, tanto de manera presencial como online. Con una metodología que te hará enamorarte del idioma desde el minuto 1.",
+  "about_card_3_title": "Clases de Español",
+  "about_card_3_text": "Clases de Español para todos los públicos. ¿Vienes de fuera y necesitas clases online para tus vacaciones en España? Esta es tu escuela. ¿Quieres aprobar todos esos exámenes que tanto cuestan? Esta es tu escuela.",
+  "about_card_4_title": "Clases Online",
+  "about_card_4_text": "Desde cualquier parte del mundo, estamos actualizados y podemos dar clases de manera Online para poder atender a aquellas personas que no puedan venir a nuestro local físico",
+  "about_card_5_title": "Clases Interactivas para los más pequeños",
+  "about_card_5_text": "¡Nos encanta enseñar a los más pequeños! Tus hijos no suspenden en la escuela porque no valgan, ¡Suspenden porque no les están enseñando bien! Nosotros aprovechamos la capacidad de aprendizaje de los más pequeños para que les guste el idioma que quieran aprender y lo lleguen a dominar con soltura",
+  "about_card_6_title": "Actividades y diversión mientras aprendes",
+  "about_card_6_text": "Tanto si eres adulto como niño, sacar ese lado creativo te ayudará a aprender todo con mucha más soltura, no es necesario que sea tedioso o difícil aprender, puede ser precioso, prueba con nosotros!",
+  "footer_text": "Llámanos si tienes alguna duda"
 }

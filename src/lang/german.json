@@ -11,5 +11,19 @@
   "email_form_placeholder_email": "example@gmail.com",
   "email_form_placeholder_asunto": "Ich möchte mehr wissen",
   "email_form_placeholder_contenido": "Ich möchte mich über die Gebühren informieren",
-  "email_form_button": "Senden"
+  "email_form_button": "Senden",
+  "about_title": "Über uns",
+  "about_card_1_title": "Englischunterricht",
+  "about_card_1_text": "Bei KLS bieten wir Englischkurse für alle Niveaus an, vom Anfänger bis zum Fortgeschrittenen. Unsere Kurse werden von hochqualifizierten und erfahrenen Lehrern durchgeführt, die innovative und dynamische Lehrmethoden verwenden, damit Sie schnell und effektiv lernen.",
+  "about_card_2_title": "Deutschunterricht",
+  "about_card_2_text": "Wir bieten auch Deutschkurse für alle Niveaus an, sowohl persönlich als auch online. Mit einer Methodik, die Sie vom ersten Moment an in die Sprache verlieben lässt.",
+  "about_card_3_title": "Spanischunterricht",
+  "about_card_3_text": "Spanischkurse für alle Altersgruppen. Kommen Sie von außerhalb und benötigen Online-Kurse für Ihren Urlaub in Spanien? Das ist Ihre Schule. Möchten Sie all diese Prüfungen bestehen, die so schwierig sind? Das ist Ihre Schule.",
+  "about_card_4_title": "Online-Kurse",
+  "about_card_4_text": "Von überall auf der Welt aus sind wir auf dem neuesten Stand und können Online-Kurse anbieten, um diejenigen zu bedienen, die nicht in unser physisches Geschäft kommen können.",
+  "about_card_5_title": "Interaktive Kurse für die Kleinen",
+  "about_card_5_text": "Wir lieben es, den Kleinsten beizubringen! Deine Kinder fallen in der Schule nicht durch, weil sie nichts taugen, sie fallen durch, weil ihnen nicht richtig beigebracht wird! Wir nutzen die Lernfähigkeit der Kleinsten aus, damit sie die Sprache, die sie lernen möchten, mögen und souverän beherrschen.",
+  "about_card_6_title": "Aktivitäten und Spaß beim Lernen",
+  "about_card_6_text": "Egal, ob Sie Erwachsener oder Kind sind, das Hervorbringen dieser kreativen Seite wird Ihnen helfen, alles viel einfacher zu lernen, es ist nicht notwendig, dass das Lernen mühsam oder schwierig ist, es kann schön sein, probieren Sie es mit uns aus!",
+  "footer_text": "Ruf uns an, wenn du Fragen hast"
 }
