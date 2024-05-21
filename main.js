@@ -1,3 +1,4 @@
+import { inject } from "@vercel/analytics"
 import { About } from "./src/components/About/About";
 import {
   ChangeLanguage,
@@ -21,6 +22,7 @@ export const init = () => {
   Footer();
   ChangeLanguage();
   ChangeLanguageListeners();
+  inject();
 };
 
 init();
